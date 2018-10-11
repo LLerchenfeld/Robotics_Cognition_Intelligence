@@ -47,3 +47,11 @@ Here you can see my projects of my studies in Robotics, Cognition, Intelligence
 
 **Machine Learning (Python) - Lecture**
 > Theory
+- [Linear Regression](https://github.com/LLerchenfeld/Robotics_Cognition_Intelligence/blob/master/Machine_Learning/ML04_Linear_Regression.pdf "Machine Learning - Linear Regression")
+- [Linear Classification](https://github.com/LLerchenfeld/Robotics_Cognition_Intelligence/blob/master/Machine_Learning/ML05_Linear_Classification.pdf "Machine Learning - Linear Classification")
+- [Optimization](https://github.com/LLerchenfeld/Robotics_Cognition_Intelligence/blob/master/Machine_Learning/ML06_Optimization.pdf "Machine Learning - Optimization")
+- [Soft-Margin SVMs and Kernels](https://github.com/LLerchenfeld/Robotics_Cognition_Intelligence/blob/master/Machine_Learning/ML08_Soft-Margin_SVM_and_Kernels.pdf "Machine Learning - Soft-Margin SVMs and Kernels")
+- [Dimensionality Reduction](https://github.com/LLerchenfeld/Robotics_Cognition_Intelligence/blob/master/Machine_Learning/ML10_Dimensionality_Reduction.pdf "Machine Learning - Linear Regression")
+- [Clustering](https://github.com/LLerchenfeld/Robotics_Cognition_Intelligence/blob/master/Machine_Learning/ML11_Clustering.pdf "Machine Learning - Clustering")
+- [Variational Inference](https://github.com/LLerchenfeld/Robotics_Cognition_Intelligence/blob/master/Machine_Learning/ML12_Variational_Inference.pdf "Machine Learning - Variational Inference")
+- ...
