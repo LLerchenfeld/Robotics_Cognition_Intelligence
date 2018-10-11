@@ -17,13 +17,13 @@ Here you can see my projects of my studies in Robotics, Cognition, Intelligence
 **Building a Modular Robot (Matlab) - Practical Course**
 > User-Interface
 - GUI
-- Presentation
-- Report
+- [Presentation](https://github.com/LLerchenfeld/Robotics_Cognition_Intelligence/blob/master/Building_a_Modular_Robot/user-interface-presentation.pdf "User-Interface of a Modular Robot - Presentation")
+- [Report](https://github.com/LLerchenfeld/Robotics_Cognition_Intelligence/blob/master/Building_a_Modular_Robot/user-interface-report.pdf "User-Interface of a Modular Robot - Report")
 
 **Recent Advances in the Analysis of 3D Shapes (PDF) - Seminar**
 > SDF-Tracking
-- Presentation
-- Report
+- [Presentation](https://github.com/LLerchenfeld/Robotics_Cognition_Intelligence/blob/master/Recent_Advances_in_the_Analysis_of_3D%20Shapes/sdftracking_presentation.pdf "3D Computer Vision - Presentation")
+- [Report](https://github.com/LLerchenfeld/Robotics_Cognition_Intelligence/blob/master/Recent_Advances_in_the_Analysis_of_3D%20Shapes/sdftracking_report.pdf "3D Computer Vision - Report")
 
 **Artificial Intelligence (Matlab) - Lecture**
 > A*Search > Ladders
