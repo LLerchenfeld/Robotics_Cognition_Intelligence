@@ -25,21 +25,25 @@ Here you can see my projects of my studies in Robotics, Cognition, Intelligence
 - [Presentation](https://github.com/LLerchenfeld/Robotics_Cognition_Intelligence/blob/master/Recent_Advances_in_the_Analysis_of_3D%20Shapes/sdftracking_presentation.pdf "3D Computer Vision - Presentation")
 - [Report](https://github.com/LLerchenfeld/Robotics_Cognition_Intelligence/blob/master/Recent_Advances_in_the_Analysis_of_3D%20Shapes/sdftracking_report.pdf "3D Computer Vision - Report")
 
-**Artificial Intelligence (Matlab) - Lecture**
-> A*Search > Ladders
-
 **Computational Intelligence (C) - Lecture**
-> Dijkstra Search
+> Unsupervised Learning [(Task Description)](https://github.com/LLerchenfeld/Robotics_Cognition_Intelligence/blob/master/Computational_Intelligence/Unsupervised_Learning/Task_Description_Learning.pdf "CI - Unsupervised Learning - Task Desciption")
+- Clustering
+- Hopfield Network
+- Self Organizing Maps
 
-> MergeSort
+> Sort [(Task Description)](https://github.com/LLerchenfeld/Robotics_Cognition_Intelligence/blob/master/Computational_Intelligence/Sort/Task_Description_Sort.pdf "CI - Sort - Task Desciption")
+- Bubble Sort
+- Insertion Sort
+- Merge Sort
 
-> Clustering
+> Search [(Task Description)](https://github.com/LLerchenfeld/Robotics_Cognition_Intelligence/blob/master/Computational_Intelligence/Search/Task_Description_Search.pdf "CI - Search - Task Desciption")
+- BFS
+- DFS
+- Dijkstra
 
-> Hopfield Network
-
-> Self Organizing Maps
-
-
+**Artificial Intelligence (Matlab) - Lecture**
+> A*Search 
+- Ladders [(Task Description)](https://github.com/LLerchenfeld/Robotics_Cognition_Intelligence/blob/master/Artificial_Intelligence/Ladders_Problem_Description.pdf "AI - Ladders - Task Desciption")
 
 **Machine Learning (Python) - Lecture**
 > Theory
