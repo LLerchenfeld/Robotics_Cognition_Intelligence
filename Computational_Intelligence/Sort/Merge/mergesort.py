@@ -22,28 +22,19 @@ def mergesort(nen):
 
 def merge(left,right):
     leng = int(left.size)
-    nen = np.zeros((leng*2,1))
-    l,r,n = 0,0,0
-    while(l<leng and r < leng):
-        if(left[l]<right[r]):
-            nen[n]=left[l]
-            l +=1
+    l,r = leng-1,leng-1
+    m = l+r+1
+    left = np.concatenate([left,np.zeros((leng,1))])
+    while(r>=0):
+        if(l>=0 and left[l]>right[r]):
+            left[m] = left[l]
+            l -= 1
         else:
-            nen[n]=right[r]
-            r +=1
-        n += 1
+            left[m] = right[r]
+            r -= 1
+        m -= 1
 
-    while(l<leng):
-        nen[n] = left[l]
-        l += 1
-        n += 1
-
-    while(r<leng):
-        nen[n] = right[r]
-        r += 1
-        n += 1
-
-    return nen
+    return left
 
 nummern = mergesort(nummern)
 
